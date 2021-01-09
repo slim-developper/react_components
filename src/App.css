@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: currentColor;
+  
+}
+h1
+  {margin-left:350px;
+    border-style: double;
+      color:rgb(136, 15, 15);
+      width: 50%;
+      height:50%;
+  }
+  h2{
+    margin-left: 350px;
+    color:rgb(79, 28, 173);
+    border-style: groove;
+    width:50%;
+    height:50%;
+   
+  }
+
+img{
+  border: 1px solid rgb(93, 46, 46);
+  border-radius: 4px;
+  padding: 5px;
+  width:600px;
+}
+
